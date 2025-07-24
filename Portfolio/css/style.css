@@ -310,7 +310,7 @@ h2.titulo span {
 
 }
 
-.imagem-projecto {
+.imagem-projecto, .imagem-projecto3 {
     width: 350px;
     height: 450px;
     background-size: cover;
@@ -600,6 +600,10 @@ footer .rodape .copy {
         width: 90%;
         max-width: 350px;
         margin: 0 auto;
+    }
+
+    .imagem-projecto3 {
+        visibility: hidden;
     }
 
 
