@@ -22,7 +22,7 @@ body {
 /*== CONFIGURAÇÕES GERAIS BOTÕES ==*/
 .btn-contacto {
     padding: 10px 40px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     background-color: #ffc801;
     border: 0;
@@ -33,14 +33,14 @@ body {
 
 /*== EFEITOS GERAIS BOTÕES ==*/
 .btn-contacto:hover {
-    box-shadow: 0px 0px 15px #ffc801;
+    box-shadow: 0px 0px 13px #ffc801;
     transform: scale(1.05);
     transition: .1s;
 }
 
 .btncontacto {
     padding: 10px 30px;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 600;
     background-color: #ffc801;
     border: 0;
@@ -50,7 +50,7 @@ body {
 }
 
 .btncontacto:hover {
-    box-shadow: 0px 0px 15px #ffc801;
+    box-shadow: 0px 0px 13px #ffc801;
     transform: scale(1.05);
     transition: .1s;
 }
@@ -101,11 +101,11 @@ body {
     padding: 0 30px;
     /* Cima e baixo 0 e esquerda e direita 30px*/
     margin: 0 5px;
-    color: #ffc801;
+    color: #d7d6d6ee;
     display: inline-block;
     font-family: "roboto";
     font-weight: 350;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .menu-desktop ul li a::after {
@@ -384,7 +384,7 @@ form .btn-enviar {
 }
 
 form .btn-enviar input {
-    width: 115px;
+    width: 112px;
     background-color: #ffc801;
     color: #000;
     font-weight: 600;
@@ -392,7 +392,7 @@ form .btn-enviar input {
 }
 
 form .btn-enviar input:hover {
-    box-shadow: 0px 0px 15px #ffc801;
+    box-shadow: 0px 0px 13px #ffc801;
     transform: scale(1.05);
     transition: .1s;
 }
