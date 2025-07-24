@@ -531,8 +531,7 @@ footer .rodape .copy {
     }
 
     .imagem-banner img {
-        width: 80%;
-        position: static;
+        width: 90%;
         padding-top: 15px;
     }
 
@@ -547,12 +546,12 @@ footer .rodape .copy {
     }
 
     .conteudo .info {
-        width: 240px;
-        height: 220px;
+        width: 230px;
+        height: 225px;
     }
 
     .conteudo .info h3 {
-        font-size: 20px;
+        font-size: 19px;
         margin: 15px 0;
     }
 
@@ -579,7 +578,7 @@ footer .rodape .copy {
     }
 
     .texto-sobre h2 {
-        font-size: 33px;
+        font-size: 32px;
         line-height: 33px;
         text-align: center;
         padding: 20px 0;
@@ -603,7 +602,7 @@ footer .rodape .copy {
     }
 
     .imagem-projecto {
-        width: 100%;
+        width: 90%;
         max-width: 350px;
         margin: 0 auto;
     }
@@ -616,8 +615,9 @@ footer .rodape .copy {
     }
 
     form .btn-enviar input {
-        width: 85px;
-    }
+    width: 100px;}
+
+
 
     /*== FOOTER ==*/
     footer .rodape .linha-rodape {
