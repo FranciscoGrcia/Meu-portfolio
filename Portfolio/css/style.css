@@ -498,6 +498,10 @@ footer .rodape .copy {
         font-weight: 200;
     }
 
+    .menu-desktop ul li a:hover::after {
+    width: 0;
+}
+
     .menu-desktop img {
         height: 80px;
     }
@@ -601,11 +605,6 @@ footer .rodape .copy {
         max-width: 350px;
         margin: 0 auto;
     }
-
-    .imagem-projecto3 {
-        visibility: hidden;
-    }
-
 
 
     /*== FORMULÁRIO ==*/
