@@ -459,11 +459,6 @@ footer .rodape .copy {
         height: 60px;
         padding: 15px 4%;
     }
-
-    .cabecalho {
-        position: fixed;
-    }
-
     /*== MENU MOBILE ==*/
     .abrirMenu,
     .fecharMenu {
@@ -504,7 +499,7 @@ footer .rodape .copy {
     }
 
     .menu-desktop img {
-        height: 90px;
+        height: 80px;
     }
 
 
@@ -531,8 +526,8 @@ footer .rodape .copy {
     }
 
     .imagem-banner img {
-        width: 90%;
-        padding-top: 15px;
+        width: 94%;
+        padding-top: 20px;
     }
 
     /*== SERVIÇOS ==*/
