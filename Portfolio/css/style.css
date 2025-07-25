@@ -510,6 +510,10 @@ footer .rodape .copy {
 
 
     /*== BANNER ==*/
+    body{
+        user-select: none;
+    }
+    
     .conteudo-banner {
         flex-direction: column-reverse;
         padding: 15px 0;
@@ -530,9 +534,6 @@ footer .rodape .copy {
         padding-top: 28px;
     }
 
-    p{
-        user-select: none;
-    }
 
     .imagem-banner img {
         width: 94%;
