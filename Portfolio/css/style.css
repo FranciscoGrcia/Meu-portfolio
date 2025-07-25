@@ -130,8 +130,8 @@ body {
 
 /*== BLOCO 3, BANNER ==*/
 section.banner {
-    padding: 40px 15%;
-    width: 70%;
+    padding: 50px 9%;
+    width: 80%;
 }
 
 .conteudo-banner {
@@ -308,7 +308,6 @@ h2.titulo span {
     gap: 30px;
     margin-top: 50px;
     flex-wrap: wrap;
-
 }
 
 .imagem-projecto, .imagem-projecto3 {
@@ -619,8 +618,8 @@ footer .rodape .copy {
     }
 
     form .btn-enviar input {
-    width: 100px;}
-
+    width: 90px;
+font-size: 7;}
 
 
     /*== FOOTER ==*/
