@@ -530,6 +530,10 @@ footer .rodape .copy {
         padding-top: 28px;
     }
 
+    p{
+        user-select: none;
+    }
+
     .imagem-banner img {
         width: 94%;
         padding-top: 20px;
