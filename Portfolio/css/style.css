@@ -483,7 +483,7 @@ footer .rodape .copy {
 
     .nav-links {
         /* display: none; */
-        position: absolute;
+        position: fixed;
         background-color: rgb(19, 30, 48);
         height: 100vh;
         top: 0;
@@ -645,7 +645,7 @@ footer .rodape .copy {
 @media (min-width: 1030px) and (max-width: 1137px) {
     .conteudo .info {
         width: 300px;
-        height: 320px;
+        height: 275px;
     }
 }
 
