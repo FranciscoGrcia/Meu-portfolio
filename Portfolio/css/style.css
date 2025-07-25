@@ -130,7 +130,8 @@ body {
 
 /*== BLOCO 3, BANNER ==*/
 section.banner {
-    padding: 40px 10%;
+    padding: 40px 15%;
+    width: 70%;
 }
 
 .conteudo-banner {
@@ -144,8 +145,8 @@ section.banner {
 
 .texto-banner h1 {
     color: #d7d6d6;
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 45px;
+    line-height: 48px;
     /* Espacamento do texto*/
 }
 
