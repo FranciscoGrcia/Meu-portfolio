@@ -116,6 +116,10 @@ nav img {
     width: 100%;
 }
 
+#fecharMenu, #abrirMenu{
+    visibility: hidden;
+}
+
 
 
 /*== BLOCO 3, BANNER ==*/
