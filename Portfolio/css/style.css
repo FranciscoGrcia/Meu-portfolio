@@ -133,7 +133,7 @@ section.banner {
     justify-content: center;
     gap: 90px;
     /* Distanciamento entre o texto h1 e p da imagem*/
-    
+    margin: 8% 0;
 }
 
 .texto-banner h1 {
