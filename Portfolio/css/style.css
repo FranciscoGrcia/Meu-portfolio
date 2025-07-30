@@ -162,9 +162,8 @@ section.banner {
 }
 
 .imagem-banner img {
-    padding: 40px 4%;
+    padding: 20px 4%;
     border-radius: 30%;
-    padding-top: 30px;
 }
 .imagem-banner img {
     position: relative;
@@ -528,13 +527,12 @@ footer .rodape .copy {
         font-size: 35px;
     }
 
-    .texto-banner p {
-        padding-top: 28px;
-    }
 
 
     .imagem-banner img {
         width: 100%;
+        padding-top: 0;
+
     }
 
     /*== SERVIÇOS ==*/
