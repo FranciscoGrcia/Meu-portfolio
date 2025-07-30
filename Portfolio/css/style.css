@@ -127,13 +127,16 @@ section.banner {
     padding: 60px 8%;
 }
 
+header{
+    margin: 5% 0;
+}
+
 .conteudo-banner {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 90px;
     /* Distanciamento entre o texto h1 e p da imagem*/
-    margin: 5% 0;
 }
 
 .texto-banner h1 {
