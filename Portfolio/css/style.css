@@ -128,7 +128,7 @@ section.banner {
 }
 
 header{
-    margin: 5% 0;
+    height: 670px;
 }
 
 .conteudo-banner {
@@ -137,6 +137,7 @@ header{
     justify-content: center;
     gap: 90px;
     /* Distanciamento entre o texto h1 e p da imagem*/
+    margin: 5% 0;
 }
 
 .texto-banner h1 {
