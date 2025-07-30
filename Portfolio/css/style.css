@@ -82,7 +82,7 @@ nav img {
     height: 120px;
 }
 
-.cabecalho nav ul {
+nav ul {
     list-style: none;
 }
 
@@ -125,7 +125,6 @@ nav img {
 /*== BLOCO 3, BANNER ==*/
 section.banner {
     padding: 60px 8%;
-    width: 80%;
 }
 
 .conteudo-banner {
