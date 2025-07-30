@@ -40,8 +40,8 @@ body {
 
 .btncontacto {
     padding: 10px 30px;
-    font-size: 14px;
-    font-weight: 600;
+    font-size: 15px;
+    font-weight: 500;
     background-color: #ffc801;
     border: 0;
     border-radius: 25px;
@@ -65,26 +65,20 @@ body {
 }
 
 
-/*== BLOCO 2, ESTILOS DO CABEÇALHO ==*/
-.cabecalho {
-    background-color: #0b121d;
-    width: 100%;
-}
-
-
 /*==  MENU DESKTOP ==*/
-.cabecalho nav {
+nav {
     display: flex;
     /* Para usar flexbox*/
     justify-content: space-between;
     align-items: center;
     height: 60px;
     padding: 25px 10%;
+    width: 100%;
 }
 
 
 /*== LOGOTIPO MENU ==*/
-.cabecalho img {
+nav img {
     height: 120px;
 }
 
@@ -122,10 +116,6 @@ body {
     width: 100%;
 }
 
-.abrirMenu, .fecharMenu {
-    visibility: hidden;
-
-}
 
 
 /*== BLOCO 3, BANNER ==*/
@@ -565,6 +555,7 @@ footer .rodape .copy {
     .btn-contacto {
         font-size: 15px;
         font-weight: 500;
+        color: #000;
     }
 
 
