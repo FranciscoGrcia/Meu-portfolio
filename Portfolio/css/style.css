@@ -40,7 +40,7 @@ body {
 
 .btncontacto {
     padding: 10px 30px;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 500;
     background-color: #ffc801;
     border: 0;
@@ -150,7 +150,6 @@ section.banner {
 .texto-banner p {
     color: #d7d6d6;
     margin: 40px 0;
-    text-align: justify;
     line-height: 24px;
 }
 
