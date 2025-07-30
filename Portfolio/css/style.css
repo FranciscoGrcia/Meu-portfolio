@@ -124,7 +124,7 @@ nav ul {
 
 /*== BLOCO 3, BANNER ==*/
 section.banner {
-    margin: 60px 8%;
+    padding: 60px 8%;
 }
 
 
@@ -134,7 +134,7 @@ section.banner {
     justify-content: center;
     gap: 90px;
     /* Distanciamento entre o texto h1 e p da imagem*/
-    padding: 10% 0;
+    margin: 10% 0;
 }
 
 .texto-banner h1 {
