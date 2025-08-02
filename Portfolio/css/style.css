@@ -75,6 +75,7 @@ nav {
     height: 30px;
     padding: 25px 10%;
     background-color: rgba(19, 30, 48, 0.349);
+    position: fixed;
 
 
 }
