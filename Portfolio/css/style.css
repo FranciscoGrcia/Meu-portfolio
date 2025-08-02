@@ -17,6 +17,7 @@ body {
     margin: auto;
     /* Centraliza o container */
     padding: 0;
+
 }
 
 /*== CONFIGURAÇÕES GERAIS BOTÕES ==*/
@@ -75,6 +76,7 @@ nav {
     padding: 25px 10%;
     background-color: #000;
 
+
 }
 
 
@@ -128,6 +130,7 @@ nav ul {
 /*== BLOCO 3, BANNER ==*/
 section.banner {
     padding: 60px 8%;
+    width: 80%;
 }
 
 
