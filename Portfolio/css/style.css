@@ -71,8 +71,9 @@ nav {
     /* Para usar flexbox*/
     justify-content: space-between;
     align-items: center;
-    height: 60px;
+    height: 30px;
     padding: 25px 10%;
+    background-color: #000;
 
 }
 
@@ -84,10 +85,12 @@ nav img {
 
 nav ul {
     list-style: none;
+
 }
 
 .menu-desktop ul li {
     display: inline-block;
+    text-align: right;
 }
 
 .menu-desktop ul li a {
@@ -440,22 +443,21 @@ footer .rodape .copy {
 
 /*== MOBILE ==*/
 @media (max-width: 1029px) and (max-width:1099px) {
-body{
-    background-color: #000;
-}
+
     /*CABEÇALHO*/
     .btncontacto,
     nav.links {
         display: none;
     }
 
-    .cabecalho nav {
+    nav {
         height: 60px;
         padding: 15px 4%;
+        background-color: #0b121dce;
     }
     /*== MENU MOBILE ==*/
-    .abrirMenu,
-    .fecharMenu {
+    #abrirMenu,
+    #fecharMenu {
         display: block;
         color: #ffc801;
         cursor: pointer;
