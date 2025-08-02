@@ -647,6 +647,37 @@ font-size: 7;}
 
 }
 
+/* Tablets e dispositivos médios */
+@media screen and (max-width: 1024px) {
+    nav {
+        padding: 20px 5%;
+    }
+
+    .conteudo-banner {
+        text-align: center;
+        gap: 40px;
+    }
+
+    .imagem-banner img {
+        width: 320px;
+    }
+
+    .conteudo {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .conteudo-sobre {
+        flex-direction: column;
+        text-align: center;
+        padding: 5% 5%;
+    }
+
+    .imagem-sobre img {
+        width: 90%;
+    }
+}
+
 @media (min-width: 1030px) and (max-width: 1137px) {
     .conteudo .info {
         width: 300px;
