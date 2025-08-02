@@ -250,6 +250,7 @@ h2.titulo span {
 
 .imagem-sobre img {
     border-radius: 50px;
+    width: 450px;
 }
 
 .texto-sobre {
@@ -444,7 +445,7 @@ footer .rodape .copy {
 
 
 /*== MOBILE ==*/
-@media (max-width: 1029px) and (max-width:1099px) {
+@media (max-width: 1024px) {
 
     /*CABEÇALHO*/
     .btncontacto,
@@ -530,7 +531,7 @@ footer .rodape .copy {
 
 
     .imagem-banner img {
-        width: 320px;
+        width: 260px;
         padding-top: 0;
 
     }
@@ -591,11 +592,6 @@ footer .rodape .copy {
 
     }
 
-    .conteudo-sobre img {
-        width: 90%;
-    }
-
-
 
     /*== PROJECTOS ==*/
     .conteudo-projectos {
@@ -606,7 +602,7 @@ footer .rodape .copy {
 
     .imagem-projecto {
         width: 90%;
-        max-width: 350px;
+        max-width: 300px;
         margin: 0 auto;
     }
 
